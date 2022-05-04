@@ -48,9 +48,9 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                 <br/><br/>
 
                 
-                <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/empresa1.pdf" type="application/pdf" width="100%" height="600px" />
+                <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/CONDORNET.pdf" type="application/pdf" width="100%" height="600px" />
 
-                <h1>TECNOTRONICS</h1>
+                <h1>CONDORNET</h1>
                 
 
 

@@ -46,9 +46,9 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
             <article class="skynet<?php echo $sufijo_estilo; ?>">
                 <a href="<?php echo $dirRoot; ?>VISTA/index.php">Indice</a> > <a href="<?php echo $url_volver; ?>">Volver</a>
                 <br/><br/>
-
+                TECHNOTRONICS.pdf
                 
-                <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/empresa1.pdf" type="application/pdf" width="100%" height="600px" />
+                <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/TECHNOTRONICS.pdf" type="application/pdf" width="100%" height="600px" />
 
                 <h1>TECNOTRONICS</h1>
                 

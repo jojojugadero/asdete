@@ -72,7 +72,7 @@ if(isset($_SESSION['user_session']) == 'afiliado_session') {
 
     <a href="<?php echo $dirRoot?>VISTA/index.php?tipologin=afil">Indice</a> > <a href="<?php echo $dirRoot?>VISTA/VI_AFILIADOS/vistaAfiliados.php">Afiliados</a>
 
-    <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/empresa1.pdf" type="application/pdf" width="100%" height="600px" />
+    <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/CONVENIO_LABORAL_CRACKENMAKER.pdf" type="application/pdf" width="100%" height="600px" />
 
 <h1>CONVENIO</h1>
     

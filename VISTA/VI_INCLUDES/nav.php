@@ -15,13 +15,13 @@ echo "<p style='font-size:large;'><h4>Empresas del sector</h4></p>
 
 <ul class='lista-normal'>
   
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa1.php' class='enlace_sidebar'>Empresa 1</a></li>
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa2.php' class='enlace_sidebar'>Empresa 2</a></li>
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa3.php' class='enlace_sidebar'>Empresa 3</a></li>
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa4.php' class='enlace_sidebar'>Empresa 4</a></li>
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa5.php' class='enlace_sidebar'>Empresa 5</a></li>
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa6.php' class='enlace_sidebar'>Empresa 6</a></li>
-<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa7.php' class='enlace_sidebar'>Empresa 7</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa1.php' class='enlace_sidebar'>CRAKENMAKER</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa2.php' class='enlace_sidebar'>TECNOTRONICS</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa3.php' class='enlace_sidebar'>CONDORNET</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa4.php' class='enlace_sidebar'>ROCINET</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa5.php' class='enlace_sidebar'>TECHSPIDER</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa6.php' class='enlace_sidebar'>BACKORCOMING</a></li>
+<li class='li_barra_lateral'><a href='".$dirRoot."VISTA/VI_EMPRESAS/empresa7.php' class='enlace_sidebar'>NETOKYDOKY</a></li>
 
 </ul>";
 
