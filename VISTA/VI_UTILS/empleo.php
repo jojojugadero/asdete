@@ -73,7 +73,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                    
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                  
-                                    <figure> <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/CRAKEN.png" type="application/pdf" width="100%" height="600px" /> </figure>
+                                    <figure> <embed src="<?php echo $dirRoot; ?>VISTA/IMAGENES/CRAKEN.png" type="application/pdf" width="100%" height="600px" /> </figure>
                                 </div>
                                 <div class="item-box-blog-body">
                                 <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
@@ -249,7 +249,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                         </div>
                       
                     </div>
-                   
+                    
                     </div>
                 </div>
                 </div>
