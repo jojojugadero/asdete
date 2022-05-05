@@ -73,8 +73,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                    
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                  
-                                    <figure> <embed src="<?php echo $dirRoot; ?>VISTA/IMAGENES/CRAKEN.png" type="application/pdf" width="100%" height="600px" /> </figure>
-                                </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                </div>
                                 <div class="item-box-blog-body">
                                 <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                    
@@ -102,7 +101,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                 
-                                    <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>
                                 </div>
                                 <div class="item-box-blog-body">
                                   
