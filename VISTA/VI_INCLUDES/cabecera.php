@@ -36,7 +36,7 @@ include $incRoot.'CONTROLADOR/ControlCabecera.php';
                     <td align="left" valign="top" class="celda-login-usuario">
         <!--Según la sesión (afiliado, administrador o superadmin, tendremnos unso estilos determinados-->
                         <?php if($sesion == 'afiliado_session'){ ?>
-                        <a title='Haz click para deslogearte' href ='<?php echo $url_desconectar; ?>'>
+                        <a title='Haz click para desloguearte' href ='<?php echo $url_desconectar; ?>'>
                             <button class="btn btn-success btn-sm boton-desconectar">
                             <svg id="i-signout"  viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
                                 <path d="M28 16 L8 16 M20 8 L28 16 20 24 M11 28 L3 28 3 4 11 4" />
@@ -44,7 +44,7 @@ include $incRoot.'CONTROLADOR/ControlCabecera.php';
                             </button>
                         </a>
                         <?php } else if($sesion == 'administrador_session'){ ?>
-                        <a title='Haz click para deslogearte' href ='<?php echo $url_desconectar; ?>'>
+                        <a title='Haz click para desloguearte' href ='<?php echo $url_desconectar; ?>'>
                             <button class="btn btn-primary btn-sm boton-desconectar">
                             <svg id="i-signout" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
                                 <path d="M28 16 L8 16 M20 8 L28 16 20 24 M11 28 L3 28 3 4 11 4" />
@@ -52,7 +52,7 @@ include $incRoot.'CONTROLADOR/ControlCabecera.php';
                             </button>
                         </a>
                         <?php } else if($sesion == 'superadmin_session'){ ?>
-                        <a title='Haz click para deslogearte' href ='<?php echo $url_desconectar; ?>'>
+                        <a title='Haz click para desloguearte' href ='<?php echo $url_desconectar; ?>'>
                             <button class="btn btn-primary btn-sm boton-desconectar-sadmin">
                             <svg id="i-signout"   viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
                                 <path d="M28 16 L8 16 M20 8 L28 16 20 24 M11 28 L3 28 3 4 11 4" />
