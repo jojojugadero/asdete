@@ -54,6 +54,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
 
             <h1>TU EMPLEO</h1>
 
+            <!--Contenedores DIV donde mostraremos nuestars ofertas laborales realizado con BOOTSTRAP -->
             <div class="container contenedorCarrusel ">
                 <div class="container">
                 <div class="row blog">
@@ -71,19 +72,19 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                 <div class="item-box-blog">
                                 <div class="item-box-blog-image">
                                    
-                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
+                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
                                  
-                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_CRAKEN.png"> </figure>                                </div>
                                 <div class="item-box-blog-body">
                                    
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>Oferta Laboral</h5>
+                                        <h5>TRABAJA CON CRAKENMAKER</h5>
                                     </a>
                                     </div>
                                   
                                     <div class="item-box-blog-data" style="padding: px 15px;">
-                                    <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                    <p><i class="fa fa-user-o"></i> Crack <i class="fa fa-comments-o"></i> Ven con nosotros...</p>
                                     </div>
                                  
                                     <div class="item-box-blog-text">
@@ -98,20 +99,20 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                 <div class="item-box-blog">
                                 <div class="item-box-blog-image">
                                
-                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
+                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
                                 
-                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_ROCINET.png"> </figure>
                                 </div>
                                 <div class="item-box-blog-body">
                                   
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>Oferta Laboral</h5>
+                                        <h5>TRABAJA CON ROCINET</h5>
                                     </a>
                                     </div>
                                     
                                     <div class="item-box-blog-data" style="padding: px 15px;">
-                                    <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                    <p><i class="fa fa-user-o"></i> Quijote <i class="fa fa-comments-o"></i> Busca tu Rocinante</p>
                                     </div>
                                     
                                     <div class="item-box-blog-text">
@@ -126,19 +127,19 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                 <div class="item-box-blog">
                                 <div class="item-box-blog-image">
                                
-                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
+                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
                                   
-                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHNOTRONICS.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                   
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>Oferta Laboral</h5>
+                                        <h5>TRABAJA CON TECHNOTRONICS</h5>
                                     </a>
                                     </div>
                                    
                                     <div class="item-box-blog-data" style="padding: px 15px;">
-                                    <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                    <p><i class="fa fa-user-o"></i> Eres Tech? <i class="fa fa-comments-o"></i> Te esperamos</p>
                                     </div>
                                    
                                     <div class="item-box-blog-text">
@@ -159,19 +160,19 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                 <div class="item-box-blog">
                                 <div class="item-box-blog-image">
                                     
-                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
+                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
                                   
-                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_CONDOR.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                     
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>Oferta Laboral</h5>
+                                        <h5>TRABAJA CON CONDOR</h5>
                                     </a>
                                     </div>
                                     
                                     <div class="item-box-blog-data" style="padding: px 15px;">
-                                    <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                    <p><i class="fa fa-user-o"></i>Si sueñas con volar <i class="fa fa-comments-o"></i> este es tu sitio</p>
                                     </div>
                                 
                                     <div class="item-box-blog-text">
@@ -186,19 +187,19 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                 <div class="item-box-blog">
                                 <div class="item-box-blog-image">
                                
-                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
+                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
                                   
                                     <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                    
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>Oferta Laboral</h5>
+                                        <h5>TRABAJA CON TECHSPIDER </h5>
                                     </a>
                                     </div>
                                   
                                     <div class="item-box-blog-data" style="padding: px 15px;">
-                                    <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                    <p><i class="fa fa-user-o"></i> Descubre <i class="fa fa-comments-o"></i> quien llevas dentro...</p>
                                     </div>
                                    
                                     <div class="item-box-blog-text">
@@ -213,19 +214,19 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                 <div class="item-box-blog">
                                 <div class="item-box-blog-image">
                                  
-                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
+                                    <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
                                   
-                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_logoAsdete.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                   
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>Oferta Laboral</h5>
+                                        <h5>TRABAJA CON NOSOTROS</h5>
                                     </a>
                                     </div>
                                   
                                     <div class="item-box-blog-data" style="padding: px 15px;">
-                                    <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                    <p><i class="fa fa-user-o"></i>¿Eres uno <i class="fa fa-comments-o"> de los nuestros?</i></p>
                                     </div>
                                   
                                     <div class="item-box-blog-text">

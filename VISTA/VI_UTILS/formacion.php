@@ -61,192 +61,192 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                             <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
                             <li data-target="#blogCarousel" data-slide-to="1"></li>
                             </ol>
-                            <!-- Carousel items -->
+                           
                             <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <div class="row">
                                 <div class="col-md-4" >
                                     <div class="item-box-blog">
                                     <div class="item-box-blog-image">
-                                        <!--Date-->
-                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
-                                        <!--Image-->
-                                        <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
-                                    </div>
+                                      
+                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
+                                    
+                                        <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_logoAsdete.png"> </figure>  
+                                                                        </div>
                                     <div class="item-box-blog-body">
-                                        <!--Heading-->
+                                      
                                         <div class="item-box-blog-heading">
                                         <a href="#" tabindex="0">
-                                            <h5>News Title</h5>
+                                            <h5>Asdete administrador</h5>
                                         </a>
                                         </div>
-                                        <!--Data-->
+                                      
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-                                        <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                        <p><i class="fa fa-user-o"></i> Estudia <i class="fa fa-comments-o"></i> con nosotros</p>
                                         </div>
-                                        <!--Text-->
+                                     
                                         <div class="item-box-blog-text">
                                         <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
                                         <div class="mt"> <a href="mailto:formacionasdete@asdete.com?Subject=Formación" tabindex="0" class="btn bg-blue-ui white read">Inscribite</a>  </div>
-                                        <!--Read More Button-->
+                                      
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4" >
                                     <div class="item-box-blog">
                                     <div class="item-box-blog-image">
-                                        <!--Date-->
-                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
-                                        <!--Image-->
-                                        <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
+                                    
+                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
+                                    
+                                        <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/CSS.png"> </figure>  
                                     </div>
                                     <div class="item-box-blog-body">
-                                        <!--Heading-->
+                                       
                                         <div class="item-box-blog-heading">
                                         <a href="#" tabindex="0">
-                                            <h5>News Title</h5>
+                                            <h5>CSS</h5>
                                         </a>
                                         </div>
-                                        <!--Data-->
+                                    
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-                                        <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                        <p><i class="fa fa-user-o"></i> Estudia <i class="fa fa-comments-o"></i> CSS</p>
                                         </div>
-                                        <!--Text-->
+                                     
                                         <div class="item-box-blog-text">
                                         <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
                                         <div class="mt"> <a href="mailto:formacionasdete@asdete.com?Subject=Formación" tabindex="0" class="btn bg-blue-ui white read">Inscribite</a> </div>
-                                        <!--Read More Button-->
+                                     
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4" >
                                     <div class="item-box-blog">
                                     <div class="item-box-blog-image">
-                                        <!--Date-->
-                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
-                                        <!--Image-->
-                                        <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
+                                      
+                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
+                                     
+                                        <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/HTML.png"> </figure>  
                                     </div>
                                     <div class="item-box-blog-body">
-                                        <!--Heading-->
+                                    
                                         <div class="item-box-blog-heading">
                                         <a href="#" tabindex="0">
-                                            <h5>News Title</h5>
+                                            <h5>HTML</h5>
                                         </a>
                                         </div>
-                                        <!--Data-->
+                                       
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-                                        <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                        <p><i class="fa fa-user-o"></i> Estudia <i class="fa fa-comments-o"></i> HTML</p>
                                         </div>
-                                        <!--Text-->
+                                   
                                         <div class="item-box-blog-text">
                                         <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
                                         <div class="mt"> <a href="mailto:formacionasdete@asdete.com?Subject=Formación" tabindex="0" class="btn bg-blue-ui white read">Inscribite</a> </div>
-                                        <!--Read More Button-->
+                                      
                                     </div>
                                     </div>
                                 </div>
                                 </div>
-                                <!--.row-->
+                               
                             </div>
-                            <!--.item-->
+                         
                             <div class="carousel-item ">
                                 <div class="row">
                                 <div class="col-md-4" >
                                     <div class="item-box-blog">
                                     <div class="item-box-blog-image">
-                                        <!--Date-->
-                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
-                                        <!--Image-->
-                                        <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
+                                        
+                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
+                                       
+                                        <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/java.png"> </figure>  
                                     </div>
                                     <div class="item-box-blog-body">
-                                        <!--Heading-->
+                                       
                                         <div class="item-box-blog-heading">
                                         <a href="#" tabindex="0">
-                                            <h5>News Title</h5>
+                                            <h5>JAVA</h5>
                                         </a>
                                         </div>
-                                        <!--Data-->
+                                       
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-                                        <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                        <p><i class="fa fa-user-o"></i> Estudia <i class="fa fa-comments-o"></i> JAVA</p>
                                         </div>
-                                        <!--Text-->
+                                      
                                         <div class="item-box-blog-text">
                                         <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
                                         <div class="mt"> <a href="mailto:formacionasdete@asdete.com?Subject=Formación" tabindex="0" class="btn bg-blue-ui white read">Inscribite</a> </div>
-                                        <!--Read More Button-->
+                                      
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4" >
                                     <div class="item-box-blog">
                                     <div class="item-box-blog-image">
-                                        <!--Date-->
-                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
-                                        <!--Image-->
-                                        <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
+                                   
+                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
+                                     
+                                        <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/JAVASCRIPT.png"> </figure>  
                                     </div>
                                     <div class="item-box-blog-body">
-                                        <!--Heading-->
+                                       
                                         <div class="item-box-blog-heading">
                                         <a href="#" tabindex="0">
-                                            <h5>News Title</h5>
+                                            <h5>JAVASCRIPT</h5>
                                         </a>
                                         </div>
-                                        <!--Data-->
+                                   
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-                                        <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                        <p><i class="fa fa-user-o"></i> Estudia <i class="fa fa-comments-o"></i> Javascript</p>
                                         </div>
-                                        <!--Text-->
+                                      
                                         <div class="item-box-blog-text">
                                         <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
                                         <div class="mt"> <a href="mailto:formacionasdete@asdete.com?Subject=Formación" tabindex="0" class="btn bg-blue-ui white read">Inscribite</a> </div>
-                                        <!--Read More Button-->
+                                      
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4" >
                                     <div class="item-box-blog">
                                     <div class="item-box-blog-image">
-                                        <!--Date-->
-                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
-                                        <!--Image-->
-                                        <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
+                                  
+                                        <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Mayo 2022</span> </div>
+                                      
+                                        <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_CARPETAS.png"> </figure>  
                                     </div>
                                     <div class="item-box-blog-body">
-                                        <!--Heading-->
+                                      
                                         <div class="item-box-blog-heading">
                                         <a href="#" tabindex="0">
-                                            <h5>News Title</h5>
+                                            <h5>OFIMATICA</h5>
                                         </a>
                                         </div>
-                                        <!--Data-->
+                                       
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-                                        <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
+                                        <p><i class="fa fa-user-o"></i> Estudia <i class="fa fa-comments-o"></i> Ofimatica</p>
                                         </div>
-                                        <!--Text-->
+                                      
                                         <div class="item-box-blog-text">
                                         <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
                                         <div class="mt"> <a href="mailto:formacionasdete@asdete.com?Subject=Formación" tabindex="0" class="btn bg-blue-ui white read">Inscribite</a> </div>
-                                        <!--Read More Button-->
+                                      
                                     </div>
                                     </div>
                                 </div>
                                 </div>
-                                <!--.row-->
+                                
                             </div>
-                            <!--.item-->
+                            
                             </div>
-                            <!--.carousel-inner-->
+                           
                         </div>
-                        <!--.Carousel-->
+                        
                         </div>
                     </div>
                     </div>
