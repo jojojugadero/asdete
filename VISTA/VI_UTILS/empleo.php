@@ -54,7 +54,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
 
             <h1>TU EMPLEO</h1>
 
-            <!--Contenedores DIV donde mostraremos nuestars ofertas laborales realizado con BOOTSTRAP -->
+            <!--Contenedores DIV donde mostraremos nuestras ofertas laborales realizado con BOOTSTRAP -->
             <div class="container contenedorCarrusel ">
                 <div class="container">
                 <div class="row blog">
