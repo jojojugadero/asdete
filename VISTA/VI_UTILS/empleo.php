@@ -75,11 +75,10 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                  
                                     <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                </div>
                                 <div class="item-box-blog-body">
-                                <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                    
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>News Title</h5>
+                                        <h5>Oferta Laboral</h5>
                                     </a>
                                     </div>
                                   
@@ -107,7 +106,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                   
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>News Title</h5>
+                                        <h5>Oferta Laboral</h5>
                                     </a>
                                     </div>
                                     
@@ -129,13 +128,12 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                   
-                                    <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
-                                </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                   
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>News Title</h5>
+                                        <h5>Oferta Laboral</h5>
                                     </a>
                                     </div>
                                    
@@ -163,13 +161,12 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                     
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                   
-                                    <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
-                                </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                     
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>News Title</h5>
+                                        <h5>Oferta Laboral</h5>
                                     </a>
                                     </div>
                                     
@@ -191,13 +188,12 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                   
-                                    <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
-                                </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                    
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>News Title</h5>
+                                        <h5>Oferta Laboral</h5>
                                     </a>
                                     </div>
                                   
@@ -219,13 +215,12 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
                                  
                                     <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Augu 01</span> </div>
                                   
-                                    <figure> <img alt="" src="https://cdn.pixabay.com/photo/2017/02/08/14/25/computer-2048983_960_720.jpg"> </figure>
-                                </div>
+                                    <figure> <img alt="" src="<?php echo $dirRoot; ?>VISTA/IMAGENES/RE_TECHSPIDER.png"> </figure>                                 </div>
                                 <div class="item-box-blog-body">
                                   
                                     <div class="item-box-blog-heading">
                                     <a href="#" tabindex="0">
-                                        <h5>News Title</h5>
+                                        <h5>Oferta Laboral</h5>
                                     </a>
                                     </div>
                                   
