@@ -52,6 +52,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
             <article class="skynet<?php echo $sufijo_estilo; ?>">
                 <a href="<?php echo $dirRoot; ?>VISTA/index.php">Indice</a> > <a href="<?php echo $url_volver; ?>">Volver</a>
 
+                <h1>Forma T</h1>
                 <!--Contenedores DIV donde mostraremos nuestros cursos realizado con BOOTSTRAP -->
                 <div class="container contenedorCarrusel ">
                     <div class="container">

@@ -52,7 +52,7 @@ include $incRoot."CONTROLADOR/ControlEstilos.php";
 
             <a href="<?php echo $dirRoot; ?>VISTA/index.php">Indice</a> > <a href="<?php echo $url_volver; ?>">Volver</a> 
 
-            <h1>TU EMPLEO</h1>
+            <h1>Tu empleo</h1>
 
             <!--Contenedores DIV donde mostraremos nuestras ofertas laborales realizado con BOOTSTRAP -->
             <div class="container contenedorCarrusel ">
