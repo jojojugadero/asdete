@@ -72,7 +72,7 @@ if(isset($_SESSION['user_session']) == 'afiliado_session') {
   }elseif($id_empresa_conv == 5 ){
     $url = $dirRoot."VISTA/VI_CONVENIOS/convenios_empresa_5.php";
     header("Location: ".$url);
-  }elseif($id_empresa_conv == 9 ){
+  }elseif($id_empresa_conv == 6 ){
     $url = $dirRoot."VISTA/VI_CONVENIOS/convenios_empresa_6.php";
     header("Location: ".$url);
   }elseif($id_empresa_conv == 7 ){

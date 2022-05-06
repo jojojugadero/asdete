@@ -71,8 +71,8 @@ if(isset($_SESSION['user_session']) == 'afiliado_session') {
     <article class="skynet<?php echo $sufijo_estilo; ?>">
 
     <a href="<?php echo $dirRoot?>VISTA/index.php?tipologin=afil">Indice</a> > <a href="<?php echo $dirRoot?>VISTA/VI_AFILIADOS/vistaAfiliados.php">Afiliados</a>
-
-    <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/empresa1.pdf" type="application/pdf" width="100%" height="600px" />
+ <!--MOSTRAMOS NUESTROS PDF EMBEBIDOS -->
+    <embed src="<?php echo $dirRoot; ?>VISTA/FICHEROS/NETOKYDOKY_CONVENIO LABORAL.pdf" type="application/pdf" width="100%" height="600px" />
 
 <h1>CONVENIO</h1>
     
